@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Jossara!
+- 👀 I’m interested in Biology, Coding, Graphic Design (UI/UX, Animation). I am currently learning Dutch too. :)
+- 🌱 I’m currently learning Python and Dutch.
+- 💞️ I’m looking to collaborate on apps, specifically the graphic design side, while I am still learning how to code.
+- 📫 How to reach me: https://www.linkedin.com/in/jossaraalves/
+- ⚡ Fun fact: I have a BSc in Biology and Health. However, I worked as a Graphic Designer for around 3 years during my studies. Haha. I also have 2 dogs, a pittie and a husky.
